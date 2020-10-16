@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas. I'm a data scientist with a passion for big data and finding patterns that make a difference.
+### Hi there, I'm Thomas. I'm a data scientist with a passion for big data and finding patterns that make a difference. My main skillset includes Python and SQL and I also have a large interest in web scraping. 
 
 You can find me here:
 
