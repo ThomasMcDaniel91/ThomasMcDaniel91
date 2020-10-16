@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Thomas. I'm a data scientist with a passion for big data and finding patterns that make a difference.
+
+You can find me here:
+
+[LinkedIn](https://www.linkedin.com/in/thomasm9105/)
+
 
 <!--
 **ThomasMcDaniel91/ThomasMcDaniel91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
