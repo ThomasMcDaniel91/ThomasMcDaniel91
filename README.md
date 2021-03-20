@@ -1,5 +1,4 @@
-### Hi there, I'm Thomas. I'm a data analyst with a passion for big data and finding patterns that make a difference. My main skillsets include Python, SQL and statistics and I have a current interest in Web scraping.
-
+### Hi there, I'm Thomas. I'm a data analyst with a passion for big data and finding patterns that make a difference. My main skillset includes SQL Server, Power BI and python with a focus on pandas, scikit learn and TensorFlow. I'd love to work together on data projects.
 You can find me here:
 
 [LinkedIn](https://www.linkedin.com/in/thomasm9105/)
